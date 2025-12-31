@@ -9,13 +9,11 @@
         <b>BugHunt has been my dream for the past 2 years.</b> 
       </p>
       <p>
-        Bringing this vision to life and seeing it evolve from a simple idea into a massive 11-hour coding night has been an incredible journey. 
+        Bringing this vision to life and seeing it evolve from a simple idea into a massive 11-hour coding night has been an incredible journey. My goal was to provide a realistic, high-pressure debugging experience, and seeing the community embrace it was the best reward.
       </p>
       <hr>
       BugHunt is more than just a competition; it’s an endurance test for developers. We started the journey at 21:00 with a room full of energy and didn't stop until 08:00 AM.
 
-As the **Lead Organizer**, this event holds a special place in my heart. **BugHunt has been my dream for the past 2 years.** Bringing this vision to life and seeing it evolve from a simple idea into a massive 11-hour coding 
-night has been an incredible journey. My goal was to provide a realistic, high-pressure debugging experience, and seeing the community embrace it was the best reward.
 ### ☕ The Survivors
 **To the Participants:** Your resilience was the highlight of the night. Seeing everyone still coding at 8:00 AM, refusing to give up on a single bug, was truly inspiring. You guys are the real survivors.
 <br> **To the Crew:** A special thanks to my dedicated team. Building these challenges and managing the event flow until dawn wouldn't have been possible without your support.
