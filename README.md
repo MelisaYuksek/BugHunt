@@ -1,5 +1,5 @@
 
-<h1>👾 About the BugHunt </h1>
+<h1>👾 About BugHunt </h1>
 <table>
   <tr>
     <td width="50%" valign="top">
